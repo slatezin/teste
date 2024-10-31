@@ -9,3 +9,19 @@ gfhj
 fgh
 fggfh
 gfh
+FileSystemDirectoryHandlegsdf
+WebGLRenderbufferdf
+DocumentFragmentdfg
+fd
+
+defaultfd
+WebGLTransformFeedbackgfd
+gfhd
+FileSystemDirectoryHandlegsdffd
+falsegf
+DocumentFragmentdfgdfgfd
+gfhddf
+getComputedStyledfgd
+df
+getComputedStylesa
+const [propertyName] = arrayToDestruct;
